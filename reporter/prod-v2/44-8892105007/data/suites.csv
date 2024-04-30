@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Apr 30 09:02:25 UTC 2024","Tue Apr 30 09:03:32 UTC 2024","66616","","Market - Price Alert","","","","User successfully set price alert [MOBILE2-2633] | PROD_ISS",""
