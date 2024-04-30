@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Apr 30 10:55:25 WIB 2024","Tue Apr 30 10:56:14 WIB 2024","48951","","Profile - Change Password","","","","User successfully change and create new password [MOBILE2-2356] | BETA",""
