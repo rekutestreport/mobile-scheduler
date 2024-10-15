@@ -1,0 +1,1 @@
+{"c3a355eff9f0b15829c9f5d7b82179f7":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"f645b2ac0aec264a","status":"broken","statusDetails":"Element 'key=profileBottomNavigationBar' is not displayed after 5000ms !","time":{"start":1728980983318,"stop":1728981059257,"duration":75939}}]}}
