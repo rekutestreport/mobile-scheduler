@@ -1,0 +1,1 @@
+{"cc5705eec2a6162bc8ee63b65a11afa6":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"643513b6370a2d11","status":"broken","statusDetails":"Element 'text=Skip' is not displayed after 5000ms !","time":{"start":1728981649198,"stop":1728981710454,"duration":61256}}]}}
