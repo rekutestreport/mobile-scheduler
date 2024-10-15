@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 15 08:24:39 UTC 2024","Tue Oct 15 08:25:23 UTC 2024","43654","","Profile","","","","User should be able to see name and user ID on header [MOBILE2-1119] | PROD_NGT, PROD_V2_COM",""
