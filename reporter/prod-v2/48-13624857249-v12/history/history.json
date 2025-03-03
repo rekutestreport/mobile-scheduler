@@ -1,0 +1,1 @@
+{"649bd24929640328803782e5d7f1962b":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"28eba20e4cdc3242","status":"broken","statusDetails":"A session is either terminated or not started","time":{"start":1740984366568,"stop":1740984410152,"duration":43584}}]}}
