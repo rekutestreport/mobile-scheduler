@@ -1,0 +1,1 @@
+{"c21686f330d105e199220ec6cfa7e41d":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"b21876fe6f29f933","status":"broken","statusDetails":"Element 'key=welcome_signInBtn' is not displayed after 5000ms !","time":{"start":1746155609545,"stop":1746155627177,"duration":17632}}]}}
